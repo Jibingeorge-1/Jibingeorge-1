@@ -64,7 +64,7 @@ I’m currently learning and exploring advanced analytics techniques, BI tools, 
 
 | *Project*      | *Description*                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| *[airline-passenger-satisfaction](https://github.com/)*    | Short Description |
+| *[airline-passenger-satisfaction](https://github.com/Jibingeorge-1/airline-passenger-satisfaction)*    | A predictive analytics project using SAS Enterprise Miner to analyze airline passenger satisfaction. Applied decision trees, logistic regression, and neural networks to identify key service factors influencing satisfaction. |
 | *[Project 2](https://github.com/)*    | Short Description |
 | *[Project 3](https://github.com/)*    | Short Description | 
 
