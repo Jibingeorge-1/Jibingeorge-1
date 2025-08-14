@@ -3,6 +3,7 @@
 ## Hi there 👋
 
 I'm **[jibin](https://www.linkedin.com/in/jibin-george-589b6131a)**, Postgraduate student in Business Analytics with a B.Com background, exploring data analysis, predictive modeling, and machine learning. Passionate about turning data into actionable insights through Python, SQL, and BI tools.
+<a href="https://www.linkedin.com/in/jibin-george-589b6131a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
