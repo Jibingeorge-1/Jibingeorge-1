@@ -64,7 +64,7 @@ I’m currently learning and exploring advanced analytics techniques, BI tools, 
 
 | *Project*      | *Description*                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| *[Project 1](https://github.com/)*    | Short Description |
+| *[airline-passenger-satisfaction](https://github.com/)*    | Short Description |
 | *[Project 2](https://github.com/)*    | Short Description |
 | *[Project 3](https://github.com/)*    | Short Description | 
 
